@@ -1,4 +1,4 @@
 
 ## Gmail clone using HTML and Tailwind CSS
 
-Deployed link - 
+Deployed link - https://gmail-clone-project.vercel.app/
